@@ -252,7 +252,7 @@ loan-default-analysis-powerbi
 
 ---
 
-# 🚀 Future Improvements
+#  Future Improvements
 
 • Build **machine learning model to predict loan default risk**
 • Deploy dashboard on **Power BI Service**
@@ -260,7 +260,7 @@ loan-default-analysis-powerbi
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Himanchal mishra**
 Engineering Student | Data Analytics Enthusiast
